@@ -1,0 +1,13 @@
+.cell {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    border: solid 1px red;
+    cursor: pointer;
+}
+
+.red{
+
+	background-color: red;
+	border:solid 1px red;
+}
